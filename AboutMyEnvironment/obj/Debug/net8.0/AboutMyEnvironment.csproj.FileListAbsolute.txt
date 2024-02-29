@@ -1,0 +1,14 @@
+/Users/jasondoyley/Desktop/cs12dotnet8/Chapter01-vscode/AboutMyEnvironment/bin/Debug/net8.0/AboutMyEnvironment
+/Users/jasondoyley/Desktop/cs12dotnet8/Chapter01-vscode/AboutMyEnvironment/bin/Debug/net8.0/AboutMyEnvironment.deps.json
+/Users/jasondoyley/Desktop/cs12dotnet8/Chapter01-vscode/AboutMyEnvironment/bin/Debug/net8.0/AboutMyEnvironment.runtimeconfig.json
+/Users/jasondoyley/Desktop/cs12dotnet8/Chapter01-vscode/AboutMyEnvironment/bin/Debug/net8.0/AboutMyEnvironment.dll
+/Users/jasondoyley/Desktop/cs12dotnet8/Chapter01-vscode/AboutMyEnvironment/bin/Debug/net8.0/AboutMyEnvironment.pdb
+/Users/jasondoyley/Desktop/cs12dotnet8/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net8.0/AboutMyEnvironment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jasondoyley/Desktop/cs12dotnet8/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net8.0/AboutMyEnvironment.AssemblyInfoInputs.cache
+/Users/jasondoyley/Desktop/cs12dotnet8/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net8.0/AboutMyEnvironment.AssemblyInfo.cs
+/Users/jasondoyley/Desktop/cs12dotnet8/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net8.0/AboutMyEnvironment.csproj.CoreCompileInputs.cache
+/Users/jasondoyley/Desktop/cs12dotnet8/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net8.0/AboutMyEnvironment.dll
+/Users/jasondoyley/Desktop/cs12dotnet8/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net8.0/refint/AboutMyEnvironment.dll
+/Users/jasondoyley/Desktop/cs12dotnet8/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net8.0/AboutMyEnvironment.pdb
+/Users/jasondoyley/Desktop/cs12dotnet8/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net8.0/AboutMyEnvironment.genruntimeconfig.cache
+/Users/jasondoyley/Desktop/cs12dotnet8/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net8.0/ref/AboutMyEnvironment.dll
